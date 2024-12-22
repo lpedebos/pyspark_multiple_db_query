@@ -1,0 +1,1 @@
+select count(*) as subtotal from public.example_table;

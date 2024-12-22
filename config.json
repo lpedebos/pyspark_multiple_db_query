@@ -1,0 +1,19 @@
+{
+  "databases": [
+    {
+      "url": "jdbc:postgresql://ip_or_host_name_for_database_1:port/database",
+      "user": "user",
+      "password": "pass"
+    },
+    {
+      "url": "jdbc:postgresql://ip_or_host_name_for_database_2:port/database",
+      "user": "user",
+      "password": "pass"
+    },
+    {
+      "url": "jdbc:postgresql://ip_or_host_name_for_database_3:port/database",
+      "user": "user",
+      "password": "pass"
+    }
+  ]
+}
